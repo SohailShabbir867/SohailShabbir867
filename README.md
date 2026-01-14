@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Sohail Shabbir</h1>
-<h3 align="center">Frontend / MERN Stack Developer | Software Engineering Student</h3>
+<h3 align="center">Full Stack  MERN Stack Developer | Software Engineering Student</h3>
 
 <p align="center">
-🌱 Currently learning Backend & APIs <br/>
+🌱 Exploring and Developing  Backend & APIs <br/>
 🚀 Passionate about Web Development
 </p>
 
@@ -55,12 +55,12 @@
 ### 🍔 Food Garden – Fast Food Website
 - MERN Stack Project
 - User & Admin Features
-- 🔗 https://github.com/SohailShabbir867/daily-blogs
+- 🔗 https://github.com/SohailShabbir867/Daily_blogs
 
 ### 📝 Blogging Website
 - React + Backend APIs
 - Authentication & CRUD Operations
-- 🔗 https://github.com/SohailShabbir867/jobs-board
+- 🔗 https://github.com/SohailShabbir867/job-board
 
 ---
 
